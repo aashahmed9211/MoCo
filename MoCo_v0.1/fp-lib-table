@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri "C:/Users/Aash Mohd/Documents/vecmocon/zdacuments/KiCAD/KiCAD/footprints.pretty")(options "")(descr ""))
+  (lib (name SOIC127P1032X265-16N)(type Legacy)(uri "$(KIPRJMOD)/SOIC127P1032X265-16N.mod")(options "")(descr ""))
+  (lib (name digikey)(type KiCad)(uri "C:/Users/Aash Mohd/Documents/vecmocon/zdacuments/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "lm324dt so14")(type KiCad)(uri "$(KIPRJMOD)/lm324dt so14.pretty")(options "")(descr ""))
+  (lib (name MoCo_v0)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
